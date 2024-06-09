@@ -3,10 +3,15 @@
 
 
 @font-face {
-    font-family: 'rocket_pop_punchregular';
-    src: url('rocketpop-webfont.woff2') format('woff2'),
-         url('rocketpop-webfont.woff') format('woff');
+    font-family: 'rocketpop';
+    src: url('../css/fonts/rocketpop-webfont.woff2') format('woff2'),
+    src: url('../css/fonts/rocketpop-webfont.woff') format('woff'),
+         url('../css/fonts/rocketpop.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 
+}
+h1 {
+     font-family: 'rocketpop', sans-serif;
+     font-size: 9em;
 }
