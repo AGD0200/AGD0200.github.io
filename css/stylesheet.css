@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'rocket_pop_punchregular';
-    src: url('rocketpop-webfont.woff2') format('woff2'),
-         url('rocketpop-webfont.woff') format('woff');
+    src: url(../css/'rocketpop-webfont.woff2') format('woff2'),
+         url(../css/'rocketpop-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
