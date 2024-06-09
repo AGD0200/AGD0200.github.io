@@ -1,5 +1,4 @@
-@font-face {
-    font-family: "rocketpop";
+@font-face { font-family: "rocketpop";
     src: url("../css/fonts/rocketpop-webfont.woff2") format("woff2"),
          url("../css/fonts/rocketpop-webfont.woff") format("woff"),
          url("../css/fonts/rocketpop.otf") format("otf");
