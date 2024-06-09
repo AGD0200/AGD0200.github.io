@@ -3,7 +3,7 @@
 
 
 @font-face {
-    font-family: 'rocketpop';
+    font-family: "rocketpop";
     src: url("../css/rocketpop-webfont.woff2") format('woff2'),
          url("../css/rocketpop-webfont.woff") format('woff');
     font-weight: normal;
